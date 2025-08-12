@@ -39,5 +39,3 @@ Ce projet fournit un endpoint conforme aux exigences de Facebook pour la suppres
 | GET     | `/data-deletion?hub.challenge=XYZ`                                 | Vérification Facebook                |
 | POST    | `/data-deletion`                                                   | Suppression via `signed_request`     |
 | GET     | `/confirm`                                                         | Page HTML de confirmation            |
-
-Exemple :  
